@@ -60,12 +60,7 @@
 * British Airways Data
 
 
-![alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/Tableau/Superstore%20Tableau/98d7950d1671ee85ea7e996f3c94a23b.png)
 
-# [Tableau: Seattle AirBNB](https://github.com/5pazzem/Colin_Ng_Portfolio/tree/main/Tableau/Seattle%20AirBNB)
-* Data Visualization with Tableau
-* Use case: Friend wants to rent AirBNB and wants to maximize earnings
-* AirBNB Data
 
 
 
