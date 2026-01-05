@@ -52,12 +52,12 @@
 
 ![alt_text](https://github.com/5pazzem/Colin_Ng_Portfolio/blob/main/Tableau/Seattle%20AirBNB/d9c9f7e5a4b8d8a368a2c195b8146337.png)
 
-#[Tableau: British Airways](https://github.com/5pazzem/ColinNg_Portfolio/tree/main/Colin_Ng_Portfolio-main/Tableau/British%20Airways)
-*Data Visualization with Tableau
-*Multiple Filters
-*Calculated Fields + Parameters
-*Use case: Comparing the different experiences on British Airways to make educated decisions
-*British Airways Data
+# [Tableau: British Airways](https://github.com/5pazzem/ColinNg_Portfolio/tree/main/Colin_Ng_Portfolio-main/Tableau/British%20Airways)
+* Data Visualization with Tableau
+* Multiple Filters
+* Calculated Fields + Parameters
+* Use case: Comparing the different experiences on British Airways to make educated decisions
+* British Airways Data
 
 
 
