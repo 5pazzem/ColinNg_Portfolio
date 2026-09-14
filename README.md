@@ -59,7 +59,7 @@
 * Use case: Comparing the different experiences on British Airways to make educated decisions
 * British Airways Data
 
-
+![alt_text](https://github.com/5pazzem/ColinNg_Portfolio/blob/main/Colin_Ng_Portfolio-main/Tableau/British%20Airways/Tableau%20Superstore%20PNG.png)
 
 
 
