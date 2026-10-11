@@ -22,7 +22,7 @@
 # [Project 3: Credit Card Fraud](https://github.com/5pazzem/ColinNg_Portfolio/tree/main/Colin_Ng_Portfolio-main/Credit%20Card%20Fraud%20Project)
 * Given a large dataset that has undergone Principle Component Analysis (PCA), I help create a machine learning model to detect credit card fraud
 * Data Preprocessing to deal with highly imbalanced data
-* Machine learning, comparing XGBoost performance against Logistic Regression
+* Machine learning, comparing XGBoost, Logistic Regression, and Isolation Forest performances.
 
 # [Project 4: Spaceship Titanic](https://github.com/5pazzem/ColinNg_Portfolio/tree/main/Colin_Ng_Portfolio-main/Spaceship%20Titanic)
 * Kaggle competition to help find lost travelers and rescue them
