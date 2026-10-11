@@ -37,6 +37,13 @@
 * Machine Learning with: Decision Tree, Random Forest, XGBoost, Neural Networks, and Logistic Regression. All with and without SMOTE
 * Automated Machine Learning
 
+# [Project 6: Credit Card 2026 Outlier Project](https://github.com/5pazzem/ColinNg_Portfolio/tree/main/Colin_Ng_Portfolio-main/Credit%20Card%20Purchase%202026)
+* Flagging transactions as outliers to further investigate fraud
+* Data preprocessing: Adjusting Headers, Concatenation, Removing Null Rows
+* Comparing performance of common outlier identifiers in IQR and Z-Score, as well as statistical models like Isolation Forest and Local Outlier Factor
+
+![alt text](https://github.com/5pazzem/ColinNg_Portfolio/blob/main/Colin_Ng_Portfolio-main/Credit%20Card%20Purchase%202026/CreditCardPNG.png)
+
 # [Tableau: Super Store Tableau](https://github.com/5pazzem/ColinNg_Portfolio/tree/main/Colin_Ng_Portfolio-main/Tableau/Superstore%20Tableau)
 * Data visualisation with Tableau
 * Sales Data
